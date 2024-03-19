@@ -1,11 +1,13 @@
-# Hello, I'm Benjamin! 👋
+# 👋 Hello, I'm Benjamin! 👋
+
+***
 
 ## 📖 About Me
 I just graduated from Le Wagon Brussels! I am now ready to tackle new challenges and combine this newly acquired skill with my scientific expertise! 🧬  My journey doesn't stop with graduation; I'm committed to continuous learning and growth. I'm currently seeking to start new projects under the guidance of a mentor while searching for new job opportunities.
 
 ## 🛠️ My Projects
--iZone : [iZone](https://www.i2one.me/) (Mobile first web app)\
--aeris: [aeris](https://aeris1554-fb09f71cf35e.herokuapp.com/)
+-[iZone](https://www.i2one.me/) (Mobile first web app)\
+-[aeris](https://aeris1554-fb09f71cf35e.herokuapp.com/)
 
 ## 💻 Tech Stack
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
