@@ -18,5 +18,5 @@ I just graduated from Le Wagon Brussels! I am now ready to tackle new challenges
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📫 How to reach me:
-- Email: benjamin.moreau49@gmail.com
+[![Email](https://example.com/email_icon.png)](benjamin.moreau49@gmail.com)
 <a href="https://linkedin.com/in/jules chevrant-breton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Benjamin Moreau LinkedIn" height="30" width="40" /></a>
