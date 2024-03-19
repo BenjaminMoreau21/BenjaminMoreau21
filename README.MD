@@ -10,7 +10,7 @@ I just graduated from Le Wagon Brussels! I am now ready to tackle new challenges
 -[aeris](https://aeris1554-fb09f71cf35e.herokuapp.com/)
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,rails,css,html,java,python)](https://skillicons.dev)
 
 ## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/benjamin-moreau-850684251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Benjamin Moreau LinkedIn" height="30" width="40" /></a>
