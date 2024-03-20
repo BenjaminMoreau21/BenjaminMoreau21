@@ -7,7 +7,7 @@ I just graduated from Le Wagon Brussels! I am now ready to tackle new challenges
 
 ## 🛠️ My Projects
 -[iZone](https://www.i2one.me/) (Mobile first web app)\
--[aeris](https://aeris1554-fb09f71cf35e.herokuapp.com/)
+-[Aeris](https://aeris1554-fb09f71cf35e.herokuapp.com/)
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,css,html,java,python,git,heroku)](https://skillicons.dev)
