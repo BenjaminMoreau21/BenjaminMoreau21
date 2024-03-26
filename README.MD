@@ -11,7 +11,7 @@ I just graduated from Le Wagon Brussels! I am now ready to tackle new challenges
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,css,html,java,python,git,heroku)](https://skillicons.dev)
-
+## Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=BenjaminMoreau21)
 
 ## 📫 How to reach me:
